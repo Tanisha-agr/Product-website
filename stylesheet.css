@@ -117,7 +117,8 @@ body{
     font-size: 20px;
     font-family: 'Montserrat', sans-serif;
     color:white;
-    padding-left: 35px;
+    padding-left: 45px;
+    padding-right: 45px;
 }
 /* .specification{
     text-align: center;
